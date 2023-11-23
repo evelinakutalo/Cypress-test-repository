@@ -1,1 +1,1 @@
-# Cypress_test_repository
+# Cypress-test-repository
